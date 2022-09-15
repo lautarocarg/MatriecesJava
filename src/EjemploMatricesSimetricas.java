@@ -1,0 +1,2 @@
+public class EjemploMatricesSimetrica s{
+}
